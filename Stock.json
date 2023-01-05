@@ -1,0 +1,55 @@
+{
+  "CommonStocks": [
+    {
+      "sharename": "AllCargo",
+      "numberOfShare": 100,
+      "sharePrice": 1000
+    },
+    {
+      "sharename": "ABP",
+      "numberOfShare": 120,
+      "sharePrice": 2400
+    },
+    {
+      "sharename": "ITBP",
+      "numberOfShare": 90,
+      "sharePrice": 1500
+    }
+  ],
+
+  "PreferredStocks": [
+    {
+      "sharename": "GlenMark",
+      "numberOfShare": 150,
+      "sharePrice": 1050
+    },
+    {
+      "sharename": "ECL",
+      "numberOfShare": 90,
+      "sharePrice": 2100
+    },
+    {
+      "sharename": "FDC",
+      "numberOfShare": 130,
+      "sharePrice": 1700
+    }
+  ],
+
+  "HybridStocks": [
+    {
+      "sharename": "coalIndia",
+      "numberOfShare": 170,
+      "sharePrice": 950
+    },
+    {
+      "sharename": "CCL",
+      "numberOfShare": 135,
+      "sharePrice": 800
+    },
+    {
+      "sharename": "CNBP",
+      "numberOfShare": 70,
+      "sharePrice": 4000
+    }
+  ]
+}
