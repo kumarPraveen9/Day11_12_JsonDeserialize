@@ -30,7 +30,7 @@
 
 
 
-
+ 
             Console.WriteLine("--------------------");
 
             Console.WriteLine("Types of Wheat is:");
