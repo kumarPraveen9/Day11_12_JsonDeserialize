@@ -28,7 +28,7 @@ namespace InventoryJson1
         public int price;
     }
 
-    public class TypesOfWheat
+    public class TypesOfWheat 
     {
         public string name;
         public int weight;
