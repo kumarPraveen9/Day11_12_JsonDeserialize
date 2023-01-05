@@ -68,6 +68,6 @@ namespace StockManagement
             }
             Console.WriteLine("The  total value for Hybrid Stocks is : {0}", total2);
             Console.WriteLine();
-        }
+       } 
     }
 }
