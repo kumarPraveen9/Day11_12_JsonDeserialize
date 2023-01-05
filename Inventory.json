@@ -1,0 +1,25 @@
+{
+  "TypesOfRice": 
+    {
+      "name": "Rice1",
+      "weight": 12,
+      "price": 240
+    }
+  ,
+
+  "TypesOfPulses": 
+    {
+      "name": "HotPulse",
+      "weight": 9,
+      "price": 200
+    }
+  ,
+
+  "TypesOfWheat": 
+    {
+      "name": "Wheat1",
+      "weight": 12,
+      "price": 240
+    }
+  
+}
