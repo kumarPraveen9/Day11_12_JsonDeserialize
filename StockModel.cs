@@ -35,5 +35,5 @@ namespace StockManagement
         public int sharePrice;
     }
 
-
+ 
 }
