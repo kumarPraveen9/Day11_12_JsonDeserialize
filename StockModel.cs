@@ -13,6 +13,18 @@ namespace StockManagement
         public List<HybridStocks> hybridStocks;
 
     }
+    public class Commpanyshares
+    {
+        public string symbol { get; set; }
+        public int numberOfshares { get; set; }
+        public string DateTime { get; set; }
+    }
+    public class PreferredStocks
+    {
+        public string sharename;
+        public int numberOfShare;
+        public int sharePrice;
+    }
 
     public class PreferredStocks
     {
